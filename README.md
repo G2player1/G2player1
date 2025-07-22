@@ -17,15 +17,18 @@ Here lies a battlefield where code is the weapon to combat problems and create s
 
 ## ⚔️ My arsenal (Languages & Tech I play with)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G2player1&layout=compact&langs_count=10&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G2player1&layout=compact&langs_count=10&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
 ## 📊 Status Screen (Enos)
 
-![Enos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=G2player1&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=G2player1&theme=radical&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G2player1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Enos' GitHub Stats" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=G2player1&theme=radical&hide_border=false" alt="GitHub Streak" height="180em" />
+</p>
 
 ---
 
