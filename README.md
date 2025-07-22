@@ -21,7 +21,7 @@ Here lies a battlefield where code is the weapon to combat problems and create s
 
 ---
 
-## 📊 Tela de Status (Enos)
+## 📊 Status Screen (Enos)
 
 ![Enos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=G2player1&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
